@@ -29,6 +29,7 @@
       {
         "extensions": [".js", ".jsx"]
       }
-    ]
+    ],
+    "semi":["error", "never"]
   }
 }
