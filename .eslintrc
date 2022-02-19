@@ -30,6 +30,7 @@
         "extensions": [".js", ".jsx"]
       }
     ],
-    "semi":["error", "never"]
+    "semi":["error", "never"],
+    "no-class-assign":"error"
   }
 }
